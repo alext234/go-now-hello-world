@@ -9,3 +9,12 @@
 - the alias for the lastest build is 
 
 `https://go-now-hello-world.now.sh`
+
+
+## Notes
+
+- `now.json` trigger automatic deployment thanks to automatic integration with github enabled
+
+- only v1 supports Dockerfile deployment type
+
+- Dockerfile is not supported in v2 and eventually not supported
