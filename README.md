@@ -5,3 +5,7 @@
 - v1 supports for Dockerfile build
 
 - github integration
+
+- the alias for the lastest build is 
+
+`https://go-now-hello-world.now.sh`
